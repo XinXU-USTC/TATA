@@ -25,7 +25,10 @@ The overview of our TATA is depicted as follows:
 For installation, you can use the following commands to set up your environment (see also [Dart-Math](https://github.com/hkust-nlp/dart-math)).
 
 ```bash
-## install dart-math enviroment
+## clone our repo
+git clone https://github.com/XinXU-USTC/TATA.git
+cd TATA
+## install dart-math environment
 git clone https://github.com/hkust-nlp/dart-math.git && cd dart-math
 conda create --name tata --yes python=3.11
 conda activate tata
